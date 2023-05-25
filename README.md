@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucenaLeandro
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Python Programming
-- 🌱 I’m currently learning a Full Stack Programm
+- 🌱 I’m currently learning a Full Stack Program
 - 💞️ I’m looking to collaborate on Python, WebScrapping and AI
 - 📫 How to reach me: leandro.3384@gmail.com
 
